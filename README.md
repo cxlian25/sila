@@ -1,1 +1,2 @@
 # sila
+using namespace std;
